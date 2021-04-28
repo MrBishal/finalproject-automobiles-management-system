@@ -1,0 +1,3 @@
+{"firstName":"bishal","lastName":"sarker","gender":"male","email":"abc@gmail.com","userName":"avro","password":"Abcd1234","recoveryEmail":"def@gmail.com"}
+{"firstName":"bishal","lastName":"nabin","gender":"male","email":"abc@gmail.com","userName":"bivor","password":"Defg1234","recoveryEmail":"def@gmail.com"}
+{"firstName":"bishal","lastName":"sarker","gender":"male","email":"abc@gmail.com","userName":"borno","password":"Qwer1234","recoveryEmail":"def@gmail.com"}

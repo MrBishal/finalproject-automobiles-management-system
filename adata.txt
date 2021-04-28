@@ -1,0 +1,2 @@
+{"firstName":"anim","lastName":"sarker","gender":"male","email":"abc@gmail.com","userName":"anim","password":"Qwer1234","recoveryEmail":"def@gmail.com"}
+{"firstName":"anamika","lastName":"sarker","gender":"female","email":"abc@gmail.com","userName":"ana","password":"Zxcv1234","recoveryEmail":"efg@gmail.com"}
